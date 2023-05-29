@@ -24,7 +24,7 @@ public class Polynomial{
 		
 	}
 	
-	//method name add takes one argument of type polynomial
+	//method name add takes one argument of type polynomial.
 	public Polynomial add(Polynomial given_polynomial) {
 		//returns the polynomial resulting from adding:
 		//the calling object and the argument
